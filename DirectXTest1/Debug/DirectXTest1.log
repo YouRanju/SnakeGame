@@ -1,0 +1,6 @@
+﻿  DirectXTest1.cpp
+C:\Users\RanRefuel\Desktop\겜메\DirectXTest1\DirectXTest1\DirectXTest1.cpp(89,61): warning C4244:  '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RanRefuel\Desktop\겜메\DirectXTest1\DirectXTest1\DirectXTest1.cpp(89,43): warning C4244:  '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RanRefuel\Desktop\겜메\DirectXTest1\DirectXTest1\DirectXTest1.cpp(158,70): warning C4244:  '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RanRefuel\Desktop\겜메\DirectXTest1\DirectXTest1\DirectXTest1.cpp(158,52): warning C4244:  '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DirectXTest1.vcxproj -> C:\Users\RanRefuel\Desktop\겜메\DirectXTest1\Debug\DirectXTest1.exe
